@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.0.1](https://github.com/capacitor-community/contacts/compare/v7.0.0...v7.0.1) (2025-10-21)
+
 ## [7.0.0](https://github.com/capacitor-community/contacts/compare/v6.1.1...v7.0.0) (2025-04-08)
 
 
