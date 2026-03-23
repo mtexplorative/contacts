@@ -63,3 +63,5 @@ captures
 
 #local secrets
 .env
+/.build
+/ios
