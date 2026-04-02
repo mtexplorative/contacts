@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "CapacitorCommunityContacts",
     platforms: [
-        .iOS(.v14)   // Minimum iOS-Version – an dein Projekt anpassen
+        .iOS(.v15)   // Minimum iOS-Version – an dein Projekt anpassen
     ],
     products: [
         .library(
